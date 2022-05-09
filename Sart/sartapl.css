@@ -1,0 +1,273 @@
+head{
+    background-color: #feeD00;
+    position: sticky;
+}
+
+
+.site-header{
+    background-color: #000000; 
+    padding-right: 8px;
+    margin-top: -10px;
+    width: 100%; 
+    height: 100%;
+
+}
+
+.LOGO{width: 300px;
+     height: 120px; 
+     background-color: #feeD00; 
+     margin:-8px; 
+     padding-left: 10px;
+}
+
+.Zag{
+    font-family: Bahnschrift;
+    font-weight: lighter;
+    font-size: 54px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+.Gr{
+    font-family: Bahnschrift;
+    font-weight: 200;
+    font-size: 45px;
+   text-align: center;
+   margin: 20px 0px 60px 0px;
+}
+
+h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 270px;
+    margin: auto;
+    font-family: bahnschrift;    
+    font-weight: lighter;
+    font-size: 32px;
+    color:#feeD00;
+  }
+body{background-color:#ffffff;}
+
+footer{background-color: black; 
+    width: 100%; 
+    height: 100%;
+    margin-left:-8px;
+    padding-right: 16px;
+    margin-bottom: -10px;
+}
+
+.boks{
+    background-color: rgb(255, 255, 255);
+    
+}
+a{
+    width: 50px;
+    margin: auto;
+    font-family: 'Times New Roman','Roboto Slab', Roboto;
+    font-size: 32px;
+    color: blanchedalmond;
+}
+
+
+.btn{
+  box-sizing: border-box;
+  background-color: white; 
+  width: 200px;
+  height: 60px; 
+  font-family: bahnscrift; 
+  font-size: 32px;
+  position: relative;
+  margin: 20px 0px 20px 0px;
+  left: 50%;
+  transform: translate(-50%, 0);}
+
+button:hover{background-color: black; color:white;}
+
+body {
+    font-family: Bahnschrift;
+   
+  }
+  
+  .container {
+    display: inline-flex;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    align-items: center;
+  }
+
+  button {font-family: bahnschrift;}
+
+  .mvpic{width: 200px;height: 400px; border-radius: 15px;}
+  .box {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: #ddd;
+    border-radius: 15px;
+    padding: 2px;
+    cursor: move;
+    width: 200px;
+    height: 400px;
+    position: relative;
+  }
+  
+  .box.over {
+    border: 3px line-width rgb(0, 0, 0);
+  }
+  
+  [draggable] {
+    user-select: none;
+  }
+  
+#colbv {
+    background-image: url('11.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#colbv:hover {
+    background-image: url('12.jpg'); 
+  }
+
+#rm20 {
+    background-image: url('13.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#rm20:hover {
+    background-image: url('14.jpg'); 
+  }
+   
+#str50 {
+    background-image: url('15.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#str50:hover {
+    background-image: url('16.jpg'); 
+  }
+ 
+#str200 {
+    background-image: url('17.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#str200:hover {
+    background-image: url('18.jpg'); 
+  }
+   
+#str1000 {
+    background-image: url('19.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#str1000:hover {
+    background-image: url('20.jpg'); 
+  }
+ 
+#sartoclear {
+    background-image: url('21.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#sartoclear:hover {
+    background-image: url('22.jpg'); 
+  }
+ 
+#allegro {
+    background-image: url('23.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#allegro:hover {
+    background-image: url('24.jpg'); 
+  }
+   
+
+#flexact {
+    background-image: url('25.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#flexact:hover {
+    background-image: url('26.jpg'); 
+  }
+ 
+#allegroresin {
+    background-image: url('27.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#allegroresin:hover {
+    background-image: url('28.jpg'); 
+  }
+ 
+
+#allegropolishin {
+    background-image: url('29.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#allegropolishin:hover {
+    background-image: url('30.jpg'); 
+  }
+ 
+#flexactvr {
+    background-image: url('31.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#flexactvr:hover {
+    background-image: url('32.jpg'); 
+  }
+ 
+#flexactud {
+    background-image: url('z1.jpg');
+    height: 860px;
+    width: 400px;
+  }
+  
+#flexactud:hover {
+    background-image: url('z.jpg'); 
+  }
+
+#finroz {
+  background-image: url('c1.jpg');
+  height: 860px;
+  width: 400px;
+}
+
+#finroz:hover {
+  background-image: url('c1a.jpg'); 
+}
+
+#progotov {
+  background-image: url('c2.jpg');
+  height: 860px;
+  width: 400px;
+}
+
+#progotov:hover {
+  background-image: url('c2a.jpg'); 
+}
+
+#rozAFS {
+  background-image: url('c3.jpg');
+  height: 860px;
+  width: 400px;
+}
+
+#rozAFS:hover {
+  background-image: url('c3a.jpg'); 
+}
+
+.pr{display: inline-block; margin-left: 150px; align-items: center;}
